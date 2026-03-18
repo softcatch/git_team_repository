@@ -1,7 +1,5 @@
 # Hello World!
 
+> sorry....
 
->4th *first conflict line* for(기선,지은,건우)
-
-
->7th *second conflict line* for(보윤, 규진, 진호)
+> 7th _second conflict line_ for(보윤, 규진, 진호)
